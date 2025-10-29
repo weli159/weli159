@@ -1,7 +1,16 @@
-### Hi there 👋
+## Hi there 👋, my name is Youssef OUALI
 
+🎓 Currently shaping my path as a *2nd-year engineering* student at *ESILV Paris*, majoring in *AI and Data Science*.
+
+🤖 I’m endlessly fascinated by how machines learn, create, and sometimes even surprise us — that’s what drives my curiosity in *Generative AI* and *intelligent systems*.
+
+💡 I love exploring the space where creativity meets data, turning abstract ideas into tangible, meaningful projects. Whether it’s a model, a story, or an insight — I believe AI is a canvas for innovation.
+
+🚀 Always *learning*, always *experimenting*, and always chasing that “what if?” moment that sparks something new.
+
+📚 Outside of code and models, you’ll probably find me diving into tech blogs, brainstorming project ideas, or just thinking about the next thing to build.
 <!--
-**weli159/weli159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*mahdiht/mahdiht* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
